@@ -2,7 +2,7 @@
 
 Welcome to **PriceParser**, an advanced tool designed to parse and extract pricing information with precision and efficiency. This project is tailored to meet the needs of developers looking to handle and process pricing data seamlessly.
 
-Build for Fulltank by Leo Hanhart for the job interview.
+Built for a job interview demo purpose by Leo Hanhart 
 ---
 
 ## Table of Contents 📚
